@@ -1,5 +1,4 @@
-# diffusion-literature
-Literature Collections about diffusion
+# Literature Collections of Diffusion
 
 ## Training-free Sampling
 1. (2024 Apr) [Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2404.02747)
@@ -16,6 +15,8 @@ Literature Collections about diffusion
 ## Distillization-based Acceleration
 1. (2022 Jun) [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512)
 
-## New task settings
+## 3D Task
+
+## Video Task
 
 ## Others
