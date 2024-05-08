@@ -19,4 +19,8 @@
 
 ## Video Task
 
-## Others
+## Understand the SNR in Diffusion
+1. (2022 Oct) [f-DM: A MULTI-STAGE DIFFUSION MODEL VIA PROGRESSIVE SIGNAL TRANSFORMATION](https://arxiv.org/pdf/2210.04955)
+2. (2023 Dec) [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
+3. (2023 Jan) [On the Importance of Noise Scheduling for Diffusion Models](https://arxiv.org/pdf/2301.10972)
+4. (2024 Feb) [Rethinking the Noise Schedule of Diffusion-Based Generative Models](https://openreview.net/pdf?id=ylHLVq0psd)
