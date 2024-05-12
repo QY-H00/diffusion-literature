@@ -24,3 +24,9 @@
 2. (2023 Dec) [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
 3. (2023 Jan) [On the Importance of Noise Scheduling for Diffusion Models](https://arxiv.org/pdf/2301.10972)
 4. (2024 Feb) [Rethinking the Noise Schedule of Diffusion-Based Generative Models](https://openreview.net/pdf?id=ylHLVq0psd)
+
+## Guidance
+1. (2023 Nov) [Rethinking Conditional Diffusion Sampling with Progressive Guidance](https://openreview.net/pdf?id=gThGBHhqcU)
+2. (2024 Apr) [Analysis of Classifier-Free Guidance Weight Schedulers](https://arxiv.org/abs/2404.13040)
+
+## Utilizing the feature in Diffusion
